@@ -34,6 +34,6 @@ public class PrimitivesObjects {
 
 
     public static void main(String args[]) {
-        
+
     }
 }
